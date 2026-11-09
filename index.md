@@ -1,5 +1,6 @@
-
+---
 layout: default
+---
 
 <!-- Questo tag HTML inserisce la foto e la fa diventare tonda con border-radius -->
 <img src="profilo.jpg" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-bottom: 20px;">
