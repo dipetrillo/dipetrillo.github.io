@@ -1,3 +1,12 @@
+
+<style>
+  /* Nasconde il blocco laterale di default del tema */
+  header { display: none !important; }
+  /* Permette alla tua pagina di allargarsi e centrarsi */
+  section { width: 100% !important; float: none !important; max-width: 900px; margin: 0 auto; }
+</style>
+
+
 <!-- Barra di navigazione blu con link a destra -->
 <div style="background-color: #0055a4; padding: 15px; text-align: right; border-radius: 5px;">
   <a href="research.html" style="color: white; font-weight: bold; margin-right: 20px; text-decoration: none;">Research</a>
