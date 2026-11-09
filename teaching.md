@@ -1,1 +1,4 @@
-# Teaching
+---
+layout: default
+title: Teaching
+---
