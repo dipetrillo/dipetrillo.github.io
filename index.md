@@ -8,11 +8,11 @@
 <div style="text-align: center; margin-top: 30px;">
   
   <!-- Sostituisci profilo.jpg con il nome esatto della tua foto -->
-  <img src="images/profilo.jpg" alt="Foto di Gemma" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1; margin-bottom: 20px;">
+  <img src="images/profile.jpg" alt="Foto di Gemma" width="200" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1; margin-bottom: 20px;">
   
-  <p>I am a researcher in Mathematics at [University Name]. <br>
-  My research interests focus on [Area 1] and [Area 2].</p>
+  <p>Hello! <br>
+  My research interests focus on blabla.</p>
 
-  <p>You can reach me at: <strong>tua.email@university.edu</strong></p>
+  <p>You can reach me at: <strong>gemma.dipetrillo at gmail dot com</strong></p>
 
 </div>
