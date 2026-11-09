@@ -1,1 +1,46 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Questo blocco <style> è il CSS: definisce i colori e le misure -->
+  <style>
+    /* Regole generali per tutta la pagina */
+    body { margin: 0; font-family: sans-serif; background-color: #fafafa; }
+    
+    /* Regole per la barra blu */
+    .navbar { 
+      background-color: #0055a4; /* Il blu marino */
+      padding: 15px 30px;        /* Lo spessore della barra */
+      text-align: right;         /* Spinge i link verso destra */
+    }
+    /* Regole per i link dentro la barra */
+    .navbar a { 
+      color: white; 
+      text-decoration: none;     /* Toglie la sottolineatura ai link */
+      margin-left: 20px;         /* Spazio tra un link e l'altro */
+      font-weight: bold; 
+    }
+    
+    /* Regole per l'area del testo in basso */
+    .content { 
+      max-width: 800px;          /* Limita la larghezza per renderlo leggibile */
+      margin: 40px auto;         /* Lo centra in mezzo allo schermo */
+      text-align: center; 
+    }
+  </style>
+</head>
+<body>
+  <!-- Questo <div> è letteralmente il rettangolo della barra in alto -->
+  <div class="navbar">
+    <a href="index.html">Home</a>
+    <a href="research.html">Research</a>
+    <a href="teaching.html">Teaching</a>
+  </div>
+
+  <!-- Questo <div> è il rettangolo invisibile che contiene i tuoi testi -->
+  <div class="content">
+    <!-- Questo è il "buco magico". Qui GitHub inietterà il tuo Markdown -->
+    {{ content }}
+  </div>
+</body>
+</html>
