@@ -12,6 +12,9 @@
       background-color: #0055a4; /* Il blu marino */
       padding: 15px 30px;        /* Lo spessore della barra */
       text-align: right;         /* Spinge i link verso destra */
+      position: sticky;  /* Rende la barra appiccicosa */
+      top: 0;            /* Le dice di incollarsi esattamente al margine alto (zero) */
+      z-index: 1000;     /* È la "profondità". Un numero alto assicura che la barra stia SEMPRE sopra il testo che scorre sotto */
     }
     /* Regole per i link dentro la barra */
     .navbar a { 
