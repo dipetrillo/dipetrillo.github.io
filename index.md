@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Gemma Di Petrillo
+subtitle: WIP
 ---
 
 <!-- Questo è il contenitore Flexbox. "gap: 40px" è lo spazio tra la foto e il testo -->
