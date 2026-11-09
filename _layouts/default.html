@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,6 +38,16 @@
     <a href="research.html">Research</a>
     <a href="teaching.html">Teaching</a>
   </div>
+
+  <!-- INIZIO DELLA NUOVA AGGIUNTA: IL NOME GIGANTE DINAMICO -->
+  <div style="text-align: center; margin-bottom: 50px; padding: 40px 20px;">
+    <!-- Qui Jekyll inserirà il titolo e il sottotitolo leggendoli dai tuoi file Markdown -->
+    <h1 style="color: #0055a4; font-size: 3em; margin: 0;">{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <h2 style="color: #555; font-weight: normal; margin-top: 10px;">{{ page.subtitle }}</h2>
+    {% endif %}
+  </div>
+  <!-- FINE DELLA NUOVA AGGIUNTA -->
 
   <!-- Questo <div> è il rettangolo invisibile che contiene i tuoi testi -->
   <div class="content">
