@@ -14,8 +14,8 @@ subtitle: WIP
   <div>
     <h1 style="margin-top: 0;">Welcome!</h1>
     
-    <p> I am ... </p>
-    <p>Contact me at: <strong>gemma [dot] dipetrillo [at] gmail [dot] com</strong></p>
+    <p> I am a researcher in **hyperbolic geometry**  </p>
+    <p>Contact me at: <strong>gemma.dipetrillo [at] gmail.com</strong></p>
   </div>
 
 </div>
