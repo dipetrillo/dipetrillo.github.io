@@ -14,7 +14,9 @@ subtitle: WIP
   <div>
     <h1 style="margin-top: 0;">Welcome!</h1>
     
-    <p> I am a researcher in **hyperbolic geometry**  </p>
+    <p> I am a Mathematician and a researcher in <strong>hyperbolic geometry</strong>.  </p>
+    <p> I recently received my PhD by the University of Trento in October 2026,  </p>
+    <p> In my PhD thesis I used the quaternionic formalism to approach the difficult problem of finding deformations of hyperbolic manifolds in higher dimensions. Namely, I focused on 3-5 <\p>. 
     <p>Contact me at: <strong>gemma.dipetrillo [at] gmail.com</strong></p>
   </div>
 
