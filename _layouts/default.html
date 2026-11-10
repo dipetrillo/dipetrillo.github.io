@@ -25,9 +25,15 @@
     
     /* Regole per l'area del testo in basso */
     .content { 
-      max-width: 1250px;          /* Limita la larghezza per renderlo leggibile */
-      margin: 40px auto;         /* Lo centra in mezzo allo schermo */
-      text-align: center; 
+      max-width: 1250px;  
+      margin: 40px auto; 
+      padding: 0 40px;    
+      text-align: left;   /* 1. Spinge TUTTO a sinistra di default */
+    }
+
+    .content h1 {
+      text-align: center; /* 2. Prende solo il titolo grande e lo riporta al centro */
+      margin-bottom: 40px; /* (Opzionale) dà un po' di respiro sotto al titolo */
     }
   </style>
 </head>
