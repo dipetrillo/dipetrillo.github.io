@@ -14,21 +14,21 @@ subtitle: WIP
     <h1 style="margin-top: 0;">Welcome!</h1>
     
     <p>
-      I am a mathematician and a researcher in <strong>hyperbolic geometry</strong>. 
-      I recently received my PhD from the University of Trento in October 2026.
-    </p>
-    
-    <p>
-      In my PhD thesis, I used the quaternionic formalism to approach the difficult problem of finding deformations of hyperbolic manifolds in higher dimensions. Namely, I focused on dimensions 3 to 5.
-    </p>
-    
-    <p>
-      <strong>I am currently on the academic job market and seeking postdoctoral positions.</strong>
-    </p>
+  I am a mathematician and a researcher in <strong>hyperbolic geometry</strong>. 
+  I recently received my PhD from the University of Trento in October 2026.
+</p>
 
-    <p style="margin-top: 30px;">
-      Contact me at: <strong>gemma.dipetrillo [at] gmail.com</strong>
-    </p>
+<p>
+  In my PhD thesis, I used the quaternionic formalism to approach the difficult problem of finding deformations of hyperbolic manifolds in higher dimensions. Namely, I focused on dimensions 3 to 5.
+</p>
+
+<p>
+  <strong>Currently on the job market!! </strong>
+</p>
+
+<p style="margin-top: 30px;">
+  Contact me at: <strong>gemma.dipetrillo [at] gmail.com</strong>
+</p>
   </div>
 
 </div>
