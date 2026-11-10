@@ -5,7 +5,7 @@ subtitle: WIP
 ---
 
 <!-- Ho ridotto la colonna sinistra da 250px a 200px -->
-<div style="display: grid; grid-template-columns: 200px 1fr; gap: 50px; align-items: start; text-align: left;">
+<div style="display: grid; grid-template-columns: 250px 1fr; gap: 50px; align-items: start; text-align: left;">
   
   <!-- AMBIENTE 1: La colonna di sinistra (Foto + Contatti) -->
   <div>
